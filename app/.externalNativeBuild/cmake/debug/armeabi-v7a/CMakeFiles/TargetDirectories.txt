@@ -1,0 +1,6 @@
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/dlib.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/edit_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/rebuild_cache.dir

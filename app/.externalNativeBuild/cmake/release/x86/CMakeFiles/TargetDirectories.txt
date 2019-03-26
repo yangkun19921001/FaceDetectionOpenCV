@@ -1,0 +1,6 @@
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/dlib_build/CMakeFiles/dlib.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/dlib_build/CMakeFiles/edit_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/x86/dlib_build/CMakeFiles/rebuild_cache.dir

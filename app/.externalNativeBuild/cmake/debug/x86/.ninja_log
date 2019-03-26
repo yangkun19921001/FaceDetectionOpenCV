@@ -1,0 +1,20 @@
+# ninja log v5
+179	1772	0	dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o	8491d37f27dfb4c7
+118	1927	0	dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o	2d4656ec8841edb1
+200	2009	0	dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o	ce175f24f4ecfca8
+131	2214	0	dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o	968f052d889d52ee
+138	2264	0	dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o	82dbbf0758ad5c6e
+160	2290	0	dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o	37d3315cba4403fc
+217	2525	0	dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o	bd1c07bd8e722fc4
+2291	3013	0	dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o	d8df2fe709f05e7
+3015	3287	0	dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o	9c2175e7a084b23
+125	3525	0	dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o	112edb309d98efb6
+3527	3702	0	dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o	57c2079e5ed745fd
+146	3784	0	dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o	7873c01ec96e01e6
+1777	3879	0	dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o	7a04ad5bd1851c72
+1928	4128	0	dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o	1d4dca87fe501e56
+2526	5884	0	dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o	9a1b6878b9e3fc91
+3785	7540	0	dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o	9968710d0a64acef
+3880	7546	0	dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o	1cfea68ef6ab6b2d
+2215	8522	0	dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o	577fb380ad2d0bb4
+3703	9211	0	dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o	2e976e8084feaa55

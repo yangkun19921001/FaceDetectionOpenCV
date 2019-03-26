@@ -1,0 +1,3 @@
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/neon_test.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/edit_cache.dir
+D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/rebuild_cache.dir

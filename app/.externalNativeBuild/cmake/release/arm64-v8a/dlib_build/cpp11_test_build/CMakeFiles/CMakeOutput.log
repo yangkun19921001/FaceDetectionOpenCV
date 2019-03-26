@@ -1,0 +1,18 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/arm64-v8a/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/Android/AndroidDeveloper-sdk/android-sdk-windows/cmake/3.6.4111459/bin/ninja.exe" "cmTC_1b1e7"
+[1/2] Building CXX object CMakeFiles/cmTC_1b1e7.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_1b1e7
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: D:/Android/face/FaceDetection-master (1)/FaceDetectionOpenCV-master/app/.externalNativeBuild/cmake/release/arm64-v8a/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/Android/AndroidDeveloper-sdk/android-sdk-windows/cmake/3.6.4111459/bin/ninja.exe" "cmTC_96269"
+[1/2] Building CXX object CMakeFiles/cmTC_96269.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_96269
+
+Source file was:
+int main() { return 0; }
